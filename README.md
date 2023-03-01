@@ -61,7 +61,7 @@ tecnologias:
 
 6 - npm i @prisma/client @fastify/cors
 
-7 - npx prisma init --datasource-privider SQLite
+7 - npx prisma init --datasource-provider SQLite
 
 8 - comando que roda o migrate do prisma: npx prisma migrate dev
 
